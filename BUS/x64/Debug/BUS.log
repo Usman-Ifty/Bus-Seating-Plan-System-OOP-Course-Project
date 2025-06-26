@@ -1,0 +1,12 @@
+﻿  Bus_Routing_System.cpp
+D:\FAST SEMESTERS\SEMESTER 2\OOP COURSE\BUS\BUS\Bus_Routing_System.cpp(61,7): warning C4101: 'sada': unreferenced local variable
+D:\FAST SEMESTERS\SEMESTER 2\OOP COURSE\BUS\BUS\Bus_Routing_System.cpp(106,7): warning C4101: 'sada': unreferenced local variable
+D:\FAST SEMESTERS\SEMESTER 2\OOP COURSE\BUS\BUS\Bus_Routing_System.cpp(151,7): warning C4101: 'sada': unreferenced local variable
+D:\FAST SEMESTERS\SEMESTER 2\OOP COURSE\BUS\BUS\Bus_Routing_System.cpp(196,7): warning C4101: 'sada': unreferenced local variable
+D:\FAST SEMESTERS\SEMESTER 2\OOP COURSE\BUS\BUS\Bus_Routing_System.cpp(241,7): warning C4101: 'sada': unreferenced local variable
+D:\FAST SEMESTERS\SEMESTER 2\OOP COURSE\BUS\BUS\Bus_Routing_System.cpp(286,7): warning C4101: 'sada': unreferenced local variable
+D:\FAST SEMESTERS\SEMESTER 2\OOP COURSE\BUS\BUS\Bus_Routing_System.cpp(331,7): warning C4101: 'sada': unreferenced local variable
+D:\FAST SEMESTERS\SEMESTER 2\OOP COURSE\BUS\BUS\Bus_Routing_System.cpp(376,7): warning C4101: 'sada': unreferenced local variable
+D:\FAST SEMESTERS\SEMESTER 2\OOP COURSE\BUS\BUS\Bus_Routing_System.cpp(421,7): warning C4101: 'sada': unreferenced local variable
+D:\FAST SEMESTERS\SEMESTER 2\OOP COURSE\BUS\BUS\Bus_Routing_System.cpp(466,7): warning C4101: 'sada': unreferenced local variable
+  BUS.vcxproj -> D:\FAST SEMESTERS\SEMESTER 2\OOP COURSE\BUS\x64\Debug\BUS.exe
